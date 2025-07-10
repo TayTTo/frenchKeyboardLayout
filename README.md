@@ -27,4 +27,13 @@ Supported Platforms
  * Desktop devices
  * Tablet devices
 
+## Manual
+For typing acute vowels: Press `'` and then the vowels.
+For typing grave vowels: Press ``` and then the vowels.
+For typing circum vowels: Press `^` and then the vowels.
+For typing dresis vowels: Press `"` and then the vowels.
+For typing cédile: Press `'` and then "c".
+
+For typing normal symbol, double type it, for example: `^^` to type ^.
+
 # frenchKeyboardLayout

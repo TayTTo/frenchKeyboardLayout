@@ -1,0 +1,6 @@
+FrenchTyping Change History
+====================
+
+1.0 (2025-07-10)
+----------------
+* Created by 
